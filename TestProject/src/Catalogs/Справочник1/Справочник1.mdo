@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="79e449fb-7493-4204-8960-597404309f61">
+  <producedTypes>
+    <objectType typeId="16b63734-0742-42a5-b272-e5f6306c6f9f" valueTypeId="e78b2d29-426c-4c00-b355-67c119dffc59"/>
+    <refType typeId="530f3cce-23b6-47a1-8ee4-76b6828365f7" valueTypeId="6cd8ab01-fbc4-4e6e-a7d2-69d76c9ca5e8"/>
+    <selectionType typeId="0c43dbd0-00da-424e-ad2c-9ef418addbfc" valueTypeId="4ffe0097-125f-4840-9abf-400e300ac3c7"/>
+    <listType typeId="afb506d8-7928-4a7d-bffa-7d7e8dfd0dce" valueTypeId="044594ae-ef42-4544-8647-d87560999c1c"/>
+    <managerType typeId="9610b80a-5242-4440-b3a7-71c9531ee5e3" valueTypeId="9a2a050b-550e-4c91-a9d5-9e3b072894fc"/>
+  </producedTypes>
+  <name>Справочник1</name>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Справочник1.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Справочник1.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <hierarchical>true</hierarchical>
+  <hierarchyType>HierarchyOfItems</hierarchyType>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <defaultChoiceForm>Catalog.Справочник1.Form.ФормаВыбора</defaultChoiceForm>
+  <choiceHistoryOnInput>DontUse</choiceHistoryOnInput>
+  <forms uuid="b4533a96-96ba-4076-835b-db92e81314d2">
+    <name>ФормаВыбора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма выбора</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a297ad96-a96b-4996-9553-8c7587d3d526">
+  <producedTypes>
+    <objectType typeId="0835c04a-e918-415b-88b0-1ae0918f53da" valueTypeId="33012b7b-713e-42ce-aefa-48e3bb4c91fa"/>
+    <managerType typeId="fdccc440-85ac-42a8-bd85-428753ec8ac1" valueTypeId="6d7ff621-2878-47a9-a12c-eb123ec39e0f"/>
+  </producedTypes>
+  <name>СозданиеПроведениеДокументовПокупкаПродажа</name>
+  <synonym>
+    <key>ru</key>
+    <value>Создание и проведение документов &quot;Покупка&quot; и &quot;Продажа&quot;</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.СозданиеПроведениеДокументовПокупкаПродажа.Form.Форма</defaultForm>
+  <forms uuid="973d7348-5b16-4685-a4bc-3db5024cc3b9">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="84d9766d-55c0-46dd-b3a6-c29d0865a6a3">
+    <name>ФормаИндикация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма индикация</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
