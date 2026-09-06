@@ -40,6 +40,7 @@
   <commonTemplates>CommonTemplate.Макет1</commonTemplates>
   <commonTemplates>CommonTemplate.Макет2</commonTemplates>
   <commonModules>CommonModule.СозданиеДокументовВФонеСервер</commonModules>
+  <constants>Constant.Константа1</constants>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
