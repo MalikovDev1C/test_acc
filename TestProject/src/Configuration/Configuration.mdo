@@ -47,6 +47,7 @@
   <catalogs>Catalog.Справочник2</catalogs>
   <documents>Document.Покупка</documents>
   <documents>Document.Продажа</documents>
+  <documents>Document.Документ33</documents>
   <dataProcessors>DataProcessor.СозданиеПроведениеДокументовПокупкаПродажа</dataProcessors>
   <accumulationRegisters>AccumulationRegister.ТоварыНаСкладе</accumulationRegisters>
 </mdclass:Configuration>
