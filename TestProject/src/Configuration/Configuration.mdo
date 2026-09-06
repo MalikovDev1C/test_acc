@@ -43,6 +43,7 @@
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
+  <catalogs>Catalog.Справочник2</catalogs>
   <documents>Document.Покупка</documents>
   <documents>Document.Продажа</documents>
   <dataProcessors>DataProcessor.СозданиеПроведениеДокументовПокупкаПродажа</dataProcessors>
